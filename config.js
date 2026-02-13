@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Happy Valentines Day, my love! Thank you so much for being with me always. For being a large part of my life. Each year that we celebrate this together, I always reflect upon how much deeper my love has grown for you. Each day I spend with you, the more I fall in love with you. This year, may our dreams of being together come to fruition so that I can finally have more pictures of you pls pls Lord. T.T",
+        title: "Happy Valentines Day, my love! Thank you so much for being with me always. For being a large part of my life. Thank you for making life bearable and enjoyable. With each year that we celebrate this together, I always reflect upon how much deeper my love has grown for you. Each day I spend with you, the more I fall in love with you. This year, may our dreams of being together come to fruition so that I can finally have more pictures of you pls pls Lord. T.T",
         message: "I LOVE YOUUU SO SO SOO MUCHHH ALWAYS!! MWAA MWAA!!",
         emojis: "🤍​🥰​"  // These will bounce around
     },
